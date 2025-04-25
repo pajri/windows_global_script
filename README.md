@@ -46,16 +46,6 @@ to remove these folders from path:
 - edit your **user path**
 - remove entries pointing to `d:\global_scripts\...`
 
-## 📦 versioning
-
-if you want to sync across machines:
-- initialize this folder as a git repo.
-- store it in a cloud drive or private github repo.
-
-```bash
-git init
-git remote add origin https://github.com/yourname/global-scripts.git
-```
 
 ## 🙌 author
 
